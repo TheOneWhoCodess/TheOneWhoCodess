@@ -23,7 +23,7 @@
       <p>Let's make some coding sorcery together! ✨</p>
     </td>
     <td width="40%" align="center">
-      <img src="./assets/about.png" alt="about" width="100%">
+      <img src="./assets/about.png.png" alt="about" width="100%">
     </td>
   </tr>
 </table>
