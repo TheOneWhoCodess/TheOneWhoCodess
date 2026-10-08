@@ -1,48 +1,77 @@
-# 💫 About Me:
+<p align="center">
+  <img src="./assets/banner.png" alt="banner" width="100%">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B93E&width=435&lines=Hey%2C+I'm+Raushan!+%F0%9F%91%BE%F0%9F%9A%80;A+Full-Stack+Wizard!+%E2%9C%A8;Building+Awesome+Things!+%F0%9F%94%A5)](https://git.io/typing-svg)
+<h2 align="center">Hi 👋, I'm Raushan</h2>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+<h4 align="center">A Full-Stack Wizard! ✨</h4>
 
-A **Full-Stack Wizard** conjuring up **awesome web apps** with a dash of frontend magic and backend wizardry! I live for the thrill of **learning new tech** and **building cool stuff**. When I’m not coding, I’m diving into open-source projects and making the web a better place, one line of code at a time. Let’s make some coding sorcery together! ✨
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raushan-kumar-singh-06005624b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raus262002@outlook.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-# 📊 GitHub Analytics
+<p align="center"><code>Building Awesome Things!</code></p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TheOneWhoCodess&bg_color=050505&color=FF8A00&title_color=FF8A00&line=FF6A00&point=FFD166&area_color=7A2E00&area=true&hide_border=true&custom_title=CODING%20ACTIVITY&days=31&grid=true&radius=8&height=320"
-    width="100%"
-  />
+  Conjuring up awesome web apps with a dash of frontend magic and backend wizardry!
+</p>
+
+<h2 align="center">🚀 About Me</h2>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>A <b>Full-Stack Wizard</b> conjuring up <b>awesome web apps</b> with a dash of frontend magic and backend wizardry!</p>
+      <p>I live for the thrill of <b>learning new tech</b> and <b>building cool stuff</b>.</p>
+      <p>When I'm not coding, I'm diving into open-source projects and making the web a better place, one line of code at a time.</p>
+      <p>Let's make some coding sorcery together! ✨</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="./assets/about.png" alt="about" width="100%">
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/TheOneWhoCodess"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raushan-kumar-singh-06005624b/"><img src="https://img.icons8.com/color/48/linkedin.png" height="48" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:raus262002@outlook.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="48" alt="Email"></a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,html,css,dotnet,angular,react,vue,nextjs,vite&perline=12" alt="languages and frontend">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,gcp,netlify,vercel&perline=12" alt="backend, database and cloud">
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheOneWhoCodess&theme=dark&hide_border=true&background=161B22&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="60%">
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TheOneWhoCodess&show_icons=true&theme=dark&hide_border=true&title_color=FF8A00&icon_color=FF8A00&text_color=FFFFFF&bg_color=050505"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TheOneWhoCodess&theme=dark&hide_border=true&background=050505&ring=FF8A00&fire=FF6A00&currStreakLabel=FF8A00"
-    width="49%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOneWhoCodess&show_icons=true&theme=dark&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&bg_color=161B22" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneWhoCodess&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22" width="49%">
+</p>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOneWhoCodess&bg_color=0D1117&color=C9D1D9&title_color=FFFFFF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true&custom_title=CODING%20ACTIVITY&days=31&grid=true&radius=8&height=320" width="100%">
+</p>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneWhoCodess&layout=compact&theme=dark&hide_border=true&title_color=FF8A00&text_color=FFFFFF&bg_color=050505"
-    width="50%"
-  />
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=TheOneWhoCodess&icon=0&color=0"></a>
 </p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=TheOneWhoCodess&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
