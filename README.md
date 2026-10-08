@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="banner" width="100%">
+  <img src="https://raw.githubusercontent.com/TheOneWhoCodess/TheOneWhoCodess/main/assets/banner.png" alt="banner" width="100%">
 </p>
 
 <h2 align="center">Hi 👋, I'm Raushan</h2>
@@ -23,7 +23,7 @@
       <p>Let's make some coding sorcery together! ✨</p>
     </td>
     <td width="40%" align="center">
-      <img src="./assets/about.png.png" alt="about" width="100%">
+      <img src="https://raw.githubusercontent.com/TheOneWhoCodess/TheOneWhoCodess/main/assets/about.png.png" alt="about" width="100%">
     </td>
   </tr>
 </table>
@@ -50,18 +50,20 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheOneWhoCodess&theme=dark&hide_border=true&background=161B22&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="60%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheOneWhoCodess&show_icons=true&theme=dark&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&bg_color=161B22" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneWhoCodess&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheOneWhoCodess&hide_border=true&background=1C2B36&stroke=2E4452&ring=C9D6DF&fire=C9D6DF&currStreakNum=C9D6DF&currStreakLabel=C9D6DF&sideNums=7F9AAC&sideLabels=7F9AAC&dates=5F7888" width="60%">
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOneWhoCodess&bg_color=0D1117&color=C9D1D9&title_color=FFFFFF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true&custom_title=CODING%20ACTIVITY&days=31&grid=true&radius=8&height=320" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOneWhoCodess&bg_color=0D1117&color=7F9AAC&title_color=C9D6DF&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&grid=true&custom_title=Raushan%27s%20Contribution%20Graph&height=300" width="100%">
+</p>
+
+<h2 align="center">🧠 Code Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOneWhoCodess&show_icons=true&hide_border=true&bg_color=1C2B36&title_color=C9D6DF&text_color=7F9AAC&icon_color=3B82F6&ring_color=3B82F6" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneWhoCodess&layout=compact&hide_border=true&bg_color=1C2B36&title_color=C9D6DF&text_color=7F9AAC" width="49%">
 </p>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
